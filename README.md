@@ -8,3 +8,8 @@ logically separated part of the application. A module should stand alone from
 the rest of the applications, so that they can easily be shared. A module might
 depend on several other modules though, in which case they must always be
 shared together.
+
+## How to deploy
+Consider / the path of your application.
+* Make the static folder accessible through /static
+* Redirect all calls to /* to /static/index.html except /static/*
