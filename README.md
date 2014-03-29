@@ -1,5 +1,5 @@
-# angular-big-seed
-This is an application skeleton for big AngularJS applications. Similar to
+# angular-modular-seed
+This is an application skeleton for modular AngularJS applications. Similar to
 [angular-seed](//github.com/angular/angular-seed), but a more modular approach.
 
 ## Modules
